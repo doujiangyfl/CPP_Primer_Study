@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="练习代码">
+      <UniqueIdentifier>{3f498530-879b-4fbd-a199-66de1fa1dc26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="书本代码">
+      <UniqueIdentifier>{2eb564ab-6348-4a46-ab24-c19893da1294}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ReferenceAndPointer.cpp">
+      <Filter>书本代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise2_4.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise2_34.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise2_42_1.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise2_42_2.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise2_42_3.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exercise2_42.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

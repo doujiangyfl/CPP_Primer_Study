@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="练习代码">
+      <UniqueIdentifier>{cb4ac536-7a28-4a57-b208-0bc2b7fbe55f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="书本代码">
+      <UniqueIdentifier>{d783adc1-1044-4111-90b5-e813bd307ef3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="练习3.2.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.4.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.5.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.6.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.7.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.8.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="string_add.cpp">
+      <Filter>书本代码</Filter>
+    </ClCompile>
+    <ClCompile Include="string_io.cpp">
+      <Filter>书本代码</Filter>
+    </ClCompile>
+    <ClCompile Include="string_size.cpp">
+      <Filter>书本代码</Filter>
+    </ClCompile>
+    <ClCompile Include="string_cmp.cpp">
+      <Filter>书本代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.10.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.14.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.15.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="vec_score.cpp">
+      <Filter>书本代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.16.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.17.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.20.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.22.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="dichotomy.cpp">
+      <Filter>书本代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.35.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.36.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="练习3.25.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

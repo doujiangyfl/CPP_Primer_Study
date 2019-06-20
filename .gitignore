@@ -32,3 +32,5 @@ Debug
 Cpp_Primer_Answer.sdf
 Cpp_Primer_Answer.opensdf
 Cpp_Primer_Answer.v12.suo
+*.opendb
+/.vs/CPP_Primer_Study/v15

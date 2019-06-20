@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="练习代码">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="书本代码">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="练习7.2.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="练习7.5.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="练习7.9.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="练习7.11.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="练习7.12.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="练习7.15.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="练习7.21.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="练习7.27.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise7_4.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise7_6.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise7_22.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise7_23.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise7_24.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise7_26.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise7_27.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise7_32.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise7_41.h">
+      <Filter>练习代码</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="练习7.3.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise7_1.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise7_7.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise7_13.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise7_41.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise7_41_main.cpp">
+      <Filter>练习代码</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
